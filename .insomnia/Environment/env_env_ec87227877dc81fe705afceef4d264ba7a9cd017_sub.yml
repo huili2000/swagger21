@@ -1,0 +1,14 @@
+_id: env_env_ec87227877dc81fe705afceef4d264ba7a9cd017_sub
+type: Environment
+parentId: env_ec87227877dc81fe705afceef4d264ba7a9cd017
+modified: 1630099265621
+created: 1630099265621
+name: Swagger env
+data:
+  base_path: /v2
+  scheme: https
+  host: petstore.swagger.io
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1630099265621
