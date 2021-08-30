@@ -1,9 +1,9 @@
 _id: findPetsByStatus
 type: Request
 parentId: fld_wrk_d0f71399b4dc426ab6f0136eb19468821b034c38
-modified: 1630346508795
+modified: 1630347064290
 created: 1630099265524
-url: "{{ base_url }}/pet/findByStatus/hui_test_id"
+url: "{{ base_url }}/pet/findByStatus/hui_dev_id"
 name: Finds Pets by status
 description: Multiple status values can be provided with comma separated strings
 method: GET
