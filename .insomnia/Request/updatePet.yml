@@ -1,9 +1,9 @@
 _id: updatePet
 type: Request
 parentId: fld_wrk_d0f71399b4dc426ab6f0136eb19468821b034c38
-modified: 1630099265537
+modified: 1630349680087
 created: 1630099265537
-url: "{{ base_url }}/pet"
+url: "{{ base_url }}/pet/hui_dev_1"
 name: Update an existing pet
 description: ""
 method: PUT
@@ -33,6 +33,7 @@ headers:
   - name: Content-Type
     disabled: false
     value: application/json
+    id: pair_ed4c224bc55449d7a45031a5d2267ea9
 authentication:
   type: oauth2
   grantType: authorization_code
