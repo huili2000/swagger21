@@ -3,7 +3,7 @@ type: Request
 parentId: fld_wrk_d0f71399b4dc426ab6f0136eb19468821b034c38
 modified: 1630349680087
 created: 1630099265537
-url: "{{ base_url }}/pet/hui_dev_1"
+url: "{{ base_url }}/pet"
 name: Update an existing pet
 description: ""
 method: PUT
