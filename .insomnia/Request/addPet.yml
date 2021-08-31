@@ -1,9 +1,9 @@
 _id: addPet
 type: Request
 parentId: fld_wrk_d0f71399b4dc426ab6f0136eb19468821b034c38
-modified: 1630099265548
+modified: 1630425043416
 created: 1630099265548
-url: "{{ base_url }}/pet"
+url: "{{ base_url }}/pet/dev-checkin"
 name: Add a new pet to the store
 description: ""
 method: POST
@@ -33,6 +33,7 @@ headers:
   - name: Content-Type
     disabled: false
     value: application/json
+    id: pair_f6efbb446e5040278285fea3c36cf195
 authentication:
   type: oauth2
   grantType: authorization_code
